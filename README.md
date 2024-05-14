@@ -6,3 +6,9 @@
 
 ![Screenshot](assets/s1.png)  
 Hal yang dipelajari: Cara menautkan akun github dengan vercel dan cara mendeploy projek di vercel
+
+
+![Screenshot](assets/s2.png)  
+![Screenshot](assets/s22.png)
+Hal yang dipelajari: Cara membuat database pada vercel
+
