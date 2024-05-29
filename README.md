@@ -12,3 +12,8 @@ Hal yang dipelajari: Cara menautkan akun github dengan vercel dan cara mendeploy
 ![Screenshot](assets/s22.png)
 Hal yang dipelajari: Cara membuat database pada vercel
 
+
+![Screenshot](assets/s3.png)  
+
+
+ 
