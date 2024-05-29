@@ -22,6 +22,10 @@ Hal yang dipelajari: Cara membuat database pada vercel
 ![Screenshot](assets/s5.png) 
 
 
+Fungsi tersebut melakukan queri dan mengubahnya dari struktur data menjadi nilai numerik, sehingga nilai tersebut bisa digunakan pada variabel const numberOfInvoices,numberOfCustomers,totalPaidInvoices,totalPendingInvoices.
+
+
+
 ![Screenshot](assets/s6.png) 
 
 
