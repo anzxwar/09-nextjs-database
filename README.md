@@ -26,3 +26,7 @@ Hal yang dipelajari: Cara membuat database pada vercel
 
 
 ![Screenshot](assets/s7.png) 
+
+
+![Screenshot](assets/s8.png) 
+
