@@ -57,3 +57,13 @@ Membuat key rahasia untuk enkripsi cookie sesi pengguna dengan perintah `openssl
 ---
 
 
+## Soal 3
+#### Silakan save semua dan lakukan running di browser Anda. Capture hasilnya dan buatlah laporan di README.md.
+
+1. Apakah ada error atau fitur yang belum berfungsi ? jika belum, silakan perbaiki!
+- Terdapat beberapa error,namun sudah saya fix dan berfungsi dengan baik.
+
+![Screenshot W10P3](assets/w10s3.png.jpg)
+
+2. Apakah ketika mengakses path URL root ( / ) dialihkan ke halaman login ? jika belum, silakan perbaiki!
+- Pada awalnya belum dialihkan, namun sudah saya alihkan ke halaman login.
